@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911114229281",
+    "project_id": "my-projcet-a603e",
+    "storage_bucket": "my-projcet-a603e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911114229281:android:e412dac1b964db2bf67560",
+        "android_client_info": {
+          "package_name": "com.example.myasm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCob7a58DVQPPhMByzpUJmbecWuz_PBZxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
